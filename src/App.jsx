@@ -4,7 +4,7 @@ import './assets/Style.css';
 function App() {
   return (
     <>
-    <EditProfile />
+      <EditProfile />
     </>
   )
 }
